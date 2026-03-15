@@ -1,0 +1,5 @@
+{
+  "name": "Random Choice Generator",
+  "description": "A developer-themed random choice generator featuring a spin wheel and a coin toss, built in a single HTML file.",
+  "requestFramePermissions": []
+}
